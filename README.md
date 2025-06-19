@@ -35,7 +35,12 @@ Finally, in the **performance tracking and implementation checklist**, I wanted 
 
 Overall, while AI gave me structure and helped enhance the writing, this document is a result of my understanding, effort, and intention to create something practical. I took time to think through every section, reworked a lot of content, and made sure the tone was consistent and easy to follow. This document is not just created by a tool—it’s crafted by me, with the support of modern technology.
 
-**Output**
+**Output**        :
 
 
+
+![Image](https://github.com/user-attachments/assets/d6727e6a-4df6-413b-8299-9a0668a65cbf)
+![Image](https://github.com/user-attachments/assets/35f221ec-15ca-4620-b819-35224a4fb969)
+![Image](https://github.com/user-attachments/assets/8fa989af-7851-4fa5-909a-13aa9c627f5d)
+![Image](https://github.com/user-attachments/assets/8ab81c1e-e2c2-47e7-9293-f23e2c40e383)  
 
