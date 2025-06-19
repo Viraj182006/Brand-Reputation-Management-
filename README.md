@@ -44,3 +44,5 @@ Overall, while AI gave me structure and helped enhance the writing, this documen
 ![Image](https://github.com/user-attachments/assets/8fa989af-7851-4fa5-909a-13aa9c627f5d)
 ![Image](https://github.com/user-attachments/assets/8ab81c1e-e2c2-47e7-9293-f23e2c40e383)  
 
+
+[Orm Strategy Document (1).pdf](https://github.com/user-attachments/files/20823189/Orm.Strategy.Document.1.pdf) 
